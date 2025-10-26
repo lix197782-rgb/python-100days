@@ -1,0 +1,1 @@
+print("hello world") # This is a simple program that prints "hello world" to the console.
