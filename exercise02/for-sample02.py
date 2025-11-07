@@ -1,0 +1,6 @@
+a=float(input())
+b=float(input())
+print(f"{a+b}")
+print(f"{a-b}")
+print(f"{a*b}")
+print(f"{a/b}")
